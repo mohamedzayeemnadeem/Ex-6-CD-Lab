@@ -1,7 +1,7 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME:N.magesh
-# REG.NO:212222040091
+# NAME:Mohamed Zayeem Nadeem
+# REG.NO:212222040102
 ## AIM :
 To write a program to implement the back end of the compiler.
 ## ALGORITHM:
