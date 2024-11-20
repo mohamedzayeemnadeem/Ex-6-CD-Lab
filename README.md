@@ -1,7 +1,5 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# NAME:Mohamed Zayeem Nadeem
-# REG.NO:212222040102
 ## AIM :
 To write a program to implement the back end of the compiler.
 ## ALGORITHM:
@@ -57,5 +55,8 @@ C=a-b
 C=a-b
 ```
 ## OUTPUT:
+![](6.12.png)
+![](6.png)
+## RESULT:
+The back end of the compiler is implemented successfully, and the output is verified.
 
-![Screenshot 2024-11-11 110955](https://github.com/user-attachments/assets/763cf8ef-be50-4e72-a886-f860aeacc984)
